@@ -1,5 +1,3 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/79731568097599.5b50bca477735.jpg)](https://rishavchanda.io)
-
 <h1 align="center">Hi 👋, I'm Sinawatra</h1>
 <h3 align="center">A passionate frontend developer from Cambodia</h3>
 <img align="right" alt="gif" width="400" src=https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif?cid=790b7611nm29zddo57e135481sh6myav1l5n0k4ag7tmpq1a&ep=v1_gifs_search&rid=giphy.gif&ct=g">
