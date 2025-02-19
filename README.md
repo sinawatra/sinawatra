@@ -4,9 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sinawatra&label=Profile%20views&color=0e75b6&style=flat" alt="sinawatra" /> </p>
 
-- 🔭 I’m currently working on **VKCLUB APP (AVAILABLE ON BOTH IOS AND ANDROID)**
-
-- 👨‍💻 All of my projects are available at [https://sinawatra.vercel.app/](https://sinawatra.vercel.app/)
 
 - 📫 How to reach me **sinawatra.rith22@kit.edu.kh**
 
