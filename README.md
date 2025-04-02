@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sinawatra&label=Profile%20views&color=0e75b6&style=flat" alt="sinawatra" /> </p>
 
 
-- 📫 How to reach me **sinawatra.rith22@kit.edu.kh**
+- 📫 How to reach me **watrasinarith@gmail.com**
 
 - ⚡ Fun fact **I am easy-going person**
 
