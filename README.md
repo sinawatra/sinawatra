@@ -24,15 +24,15 @@
   <a href="https://linkedin.com/in/sinawatra-rith-91668a290/" target="blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="30" />
   </a>
-  <a href="https://fb.com/profile.php?id=100007928973272" target="blank">
+<!--   <a href="https://fb.com/profile.php?id=100007928973272" target="blank">
     <img src="https://skillicons.dev/icons?i=facebook" height="30" />
-  </a>
+  </a> -->
   <a href="https://instagram.com/watraa.aa" target="blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="30" />
   </a>
-  <a href="https://www.youtube.com/@watra7788" target="blank">
+<!--   <a href="https://www.youtube.com/@watra7788" target="blank">
     <img src="https://skillicons.dev/icons?i=youtube" height="30" />
-  </a>
+  </a> -->
 </p>
 
 ---
