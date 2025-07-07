@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sinawatra</h1>
-
+<!--
 <p align="center">
   <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif?cid=790b7611nm29zddo57e135481sh6myav1l5n0k4ag7tmpq1a&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="400" alt="Coder GIF">
 </p>
-<!-- 
+-->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sinawatra&label=Profile%20views&color=0e75b6&style=flat" alt="sinawatra" />
 </p>
--->
 
 <p align="center">
   🌱 Always learning & building cool things <br>
