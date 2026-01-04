@@ -48,7 +48,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinawatra&layout=compact&theme=tokyonight&hide_border=true" width="47%" />
 </div>
 -->
-
+---
 
 <h3 align="center">🛠️ Tools & Tech</h3>
 
