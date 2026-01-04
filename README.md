@@ -35,7 +35,7 @@
   </a> -->
 </p>
 
----
+
 <!-- 
 <h3 align="center">📊 GitHub Stats</h3>
 
@@ -48,10 +48,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinawatra&layout=compact&theme=tokyonight&hide_border=true" width="47%" />
 </div>
 -->
----
+
 
 <h3 align="center">🛠️ Tools & Tech</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,js,ts,nodejs,mongodb,html,css,github,git,vscode" />
+<img src="https://skillicons.dev/icons?i=dart,swift,js,java,spring" alt="Tech Stack" />
 </p>
