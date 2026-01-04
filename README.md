@@ -36,7 +36,7 @@
 </p>
 
 ---
-
+<!-- 
 <h3 align="center">📊 GitHub Stats</h3>
 
 <div align="center">
@@ -47,7 +47,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinawatra&layout=compact&theme=tokyonight&hide_border=true" width="47%" />
 </div>
-
+-->
 ---
 
 <h3 align="center">🛠️ Tools & Tech</h3>
