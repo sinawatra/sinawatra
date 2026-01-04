@@ -53,5 +53,6 @@
 <h3 align="center">🛠️ Tools & Tech</h3>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=dart,swift,js,java,spring" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=dart,swift,js,react,java,spring" alt="Tech Stack" />
+
 </p>
